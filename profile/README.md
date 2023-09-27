@@ -1,22 +1,24 @@
 ## Logius beheert standaarden voor Nederlandse overheidsorganisaties
 
-### Digikoppeling standaarden
-
-- 
-
 ### API Design Rules
 
-- [NLGov API Design Rules](https://gitdocumentatie.logius.nl/publicatie/api/adr/)
+- [NLGov API Design Rules v1](https://gitdocumentatie.logius.nl/publicatie/api/adr/) (Definitief)
+- [NLGov API Design Rules v2.0.0-rc.1](https://logius-standaarden.github.io/API-Design-Rules/) (versie ter vaststelling)
 
 ### API Access Rules
 
-- [NLGov OAuth](https://gitdocumentatie.logius.nl/publicatie/api/oauth/)
-- [NLGov OpenID Connect](https://gitdocumentatie.logius.nl/publicatie/api/oidc/)
+- [NLGov OAuth v1](https://gitdocumentatie.logius.nl/publicatie/api/oauth/) (Definitief)
+- [NLGov OAuth v1.1]https://logius-standaarden.github.io/OAuth-NL-profiel/ (Werkversie)
+- [NLGov OpenID Connect v1.0.1](https://gitdocumentatie.logius.nl/publicatie/api/oidc/) (Definitief)
 
 ### Bomos standaarden
 
 -
 
+### Digikoppeling standaarden
+
+-
+ 
 ### Notificatieservices
 
 -
