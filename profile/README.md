@@ -8,7 +8,7 @@
 ### API Access Rules
 
 - [NLGov OAuth v1](https://gitdocumentatie.logius.nl/publicatie/api/oauth/) (Definitief)
-- [NLGov OAuth v1.1]https://logius-standaarden.github.io/OAuth-NL-profiel/ (Werkversie)
+- [NLGov OAuth v1.1](https://logius-standaarden.github.io/OAuth-NL-profiel/) (Werkversie)
 - [NLGov OpenID Connect v1.0.1](https://gitdocumentatie.logius.nl/publicatie/api/oidc/) (Definitief)
 
 ### Bomos standaarden
