@@ -27,8 +27,8 @@
 | Repository                    | Gepubliceerde versie          | Werk versie                   |
 | ----------------------------- | ----------------------------- | ----------------------------- |
 | [Digimelding-Koppelvlakspecificatie](https://github.com/Logius-standaarden/Digimelding-Koppelvlakspecificatie/) | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/digimelding/koppelvlak/) | [Werkversie](https://logius-standaarden.github.io/Digimelding-Koppelvlakspecificatie/) |
-| [NL-GOV-profile-for-CloudEvents](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents) | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/CloudEvents-NL/) | [Werkversie](https://gitdocumentatie.logius.nl/publicatie/CloudEvents-NL/) |
-| [CloudEvents-NL-Guidelines](https://github.com/Logius-standaarden/CloudEvents-NL-Guidelines), handreiking voor toepassing | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/guidelines/) | [Werkversie](https://gitdocumentatie.logius.nl/publicatie/guidelines) |
+| [NL-GOV-profile-for-CloudEvents](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents) | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/CloudEvents-NL/) | [Werkversie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/CloudEvents-NL/) |
+| [CloudEvents-NL-Guidelines](https://github.com/Logius-standaarden/CloudEvents-NL-Guidelines), handreiking voor toepassing | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/guidelines/) | [Werkversie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/guidelines) |
 
 <!--
 
