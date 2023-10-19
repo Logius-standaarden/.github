@@ -10,7 +10,13 @@
 
 ### Bomos standaarden
 
--
+| Gepubliceerde versie          | Werk versie                   | Repository                    |
+| ----------------------------- | ----------------------------- | ----------------------------- |
+| [BOMOS Fundament, vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament)   | [Werkversie](https://logius-standaarden.github.io/BOMOS-Fundament/)   | [BOMOS-Fundament](https://github.com/Logius-standaarden/BOMOS-Fundament)   |
+| [BOMOS Verdieping, vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping) | [Werkversie](https://logius-standaarden.github.io/BOMOS-Verdieping/)  | [BOMOS-Verdieping](https://github.com/Logius-standaarden/BOMOS-Verdieping)  |
+| [BOMOS Stelsels, vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/bomos/stelsels)     | [Werkversie](https://logius-standaarden.github.io/BOMOS-Stelsels/)    | [BOMOS-Stelsels](https://github.com/Logius-standaarden/BOMOS-Stelsels)    |
+| [BOMOS Stelsels, vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/bomos/linkeddata)   | [Werkversie](https://logius-standaarden.github.io/BOMOS-LinkedData/)  | [BOMOS-LinkedData](https://github.com/Logius-standaarden/BOMOS-LinkedData)  |
+| [BOMOS Stelsels, vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/bomos/beheermodel)  | [Werkversie](https://logius-standaarden.github.io/BOMOS-Beheermodel/) | [BOMOS-Beheermodel](https://github.com/Logius-standaarden/BOMOS-Beheermodel) |
 
 ### Digikoppeling standaarden
 
