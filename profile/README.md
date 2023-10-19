@@ -8,7 +8,23 @@
 | 🏛️[NLGov OAuth 2.0 profile (OAuth)](https://forumstandaardisatie.nl/open-standaarden/nl-gov-assurance-profile-oauth-20) | 🍿[OAuth v1 (definitief)](https://gitdocumentatie.logius.nl/publicatie/api/oauth/) | ✍️[OAuth v1.1.0 (werkversie)](https://logius-standaarden.github.io/OAuth-NL-profiel/) | 🤓[OAuth-NL-profiel](https://github.com/Logius-standaarden/OAuth-NL-profiel) |
 | 🏛️[NLGov OpenID Connect profile (OIDC)](https://forumstandaardisatie.nl/open-standaarden/nl-gov-assurance-profile-oidc) | 🍿[OIDC v1.0.1 (definitief)](https://gitdocumentatie.logius.nl/publicatie/api/oidc/) | ✍️[OIDC v1.0.1 (werkversie)](https://logius-standaarden.github.io/OIDC-NLGOV/) | 🤓[OIDC-NLGOV](https://github.com/Logius-standaarden/OIDC-NLGOV) |
 
-### Bomos standaarden
+### Digikoppeling standaarden
+
+-
+
+### Standaarden voor basisregstraties
+
+Logius beheert een aantal standaarden die specifiek in de uitwisseling van informatie voor de basisregistraties gebruikt worden: DMKS voor het doen van terugmeldingen en CloudEvents voor notificaties.
+
+| Repository                    | Gepubliceerde versie          | Werk versie                   |
+| ----------------------------- | ----------------------------- | ----------------------------- |
+| [Digimelding-Koppelvlakspecificatie](https://github.com/Logius-standaarden/Digimelding-Koppelvlakspecificatie/) | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/digimelding/koppelvlak/) | [Werkversie](https://logius-standaarden.github.io/Digimelding-Koppelvlakspecificatie/) |
+| [NL-GOV-profile-for-CloudEvents](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents) | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/CloudEvents-NL/) | [Werkversie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/CloudEvents-NL/) |
+| [CloudEvents-NL-Guidelines](https://github.com/Logius-standaarden/CloudEvents-NL-Guidelines), handreiking voor toepassing | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/guidelines/) | [Werkversie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/guidelines) |
+
+### BOMOS standaarden
+
+Het beheer- en ontwikkelmodel voor open standaarden BOMOS is een handreiking voor beheerders. Logius publiceert en beheert BOMOS en organiseert regelamtig klankbordbijeenkomsten waar beheerders praktijkervaring delen en ideeen voor verbetering van BOMOS uitwerken.
 
 | Repository                    | Gepubliceerde versie          | Werk versie                   |
 | ----------------------------- | ----------------------------- | ----------------------------- |
@@ -17,18 +33,6 @@
 | [BOMOS-Stelsels](https://github.com/Logius-standaarden/BOMOS-Stelsels), aanvullende module over het beheer van afsprakenstelsels      | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/bomos/stelsels)    | [Werkversie](https://logius-standaarden.github.io/BOMOS-Stelsels/)    |
 | [BOMOS-LinkedData](https://github.com/Logius-standaarden/BOMOS-LinkedData), aanvullende module specifiek over beheer van linked data. | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/bomos/linkeddata)  | [Werkversie](https://logius-standaarden.github.io/BOMOS-LinkedData/)  |
 | [BOMOS-Beheermodel](https://github.com/Logius-standaarden/BOMOS-Beheermodel), hoe BOMOS zelf beheerd wordt. | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/bomos/beheermodel) | [Werkversie](https://logius-standaarden.github.io/BOMOS-Beheermodel/) |
-
-### Digikoppeling standaarden
-
--
-
-### Standaarden voor basisregstraties
-
-| Repository                    | Gepubliceerde versie          | Werk versie                   |
-| ----------------------------- | ----------------------------- | ----------------------------- |
-| [Digimelding-Koppelvlakspecificatie](https://github.com/Logius-standaarden/Digimelding-Koppelvlakspecificatie/) | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/digimelding/koppelvlak/) | [Werkversie](https://logius-standaarden.github.io/Digimelding-Koppelvlakspecificatie/) |
-| [NL-GOV-profile-for-CloudEvents](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents) | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/CloudEvents-NL/) | [Werkversie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/CloudEvents-NL/) |
-| [CloudEvents-NL-Guidelines](https://github.com/Logius-standaarden/CloudEvents-NL-Guidelines), handreiking voor toepassing | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/guidelines/) | [Werkversie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/guidelines) |
 
 <!--
 
