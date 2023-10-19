@@ -18,8 +18,8 @@ Logius beheert een aantal standaarden die specifiek in de uitwisseling van infor
 
 | Repository                    | Gepubliceerde versie          | Werk versie                   |
 | ----------------------------- | ----------------------------- | ----------------------------- |
-| [Digimelding-Koppelvlakspecificatie](https://github.com/Logius-standaarden/Digimelding-Koppelvlakspecificatie/) | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/digimelding/koppelvlak/) | [Werkversie](https://logius-standaarden.github.io/Digimelding-Koppelvlakspecificatie/) |
-| [NL-GOV-profile-for-CloudEvents](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents) | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/CloudEvents-NL/) | [Werkversie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/CloudEvents-NL/) |
+| [Digimelding-Koppelvlakspecificatie](https://github.com/Logius-standaarden/Digimelding-Koppelvlakspecificatie/) | [Vastgestelde versie, 1 juni 2021](https://gitdocumentatie.logius.nl/publicatie/digimelding/koppelvlak/) | [Werkversie, 17 mei 2023](https://logius-standaarden.github.io/Digimelding-Koppelvlakspecificatie/) |
+| [NL-GOV-profile-for-CloudEvents](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents) | [Vastgestelde versie, 5 juli 2022](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/CloudEvents-NL/) | [Werkversie, 5 juli 2022](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/CloudEvents-NL/) |
 | [CloudEvents-NL-Guidelines](https://github.com/Logius-standaarden/CloudEvents-NL-Guidelines), handreiking voor toepassing | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/guidelines/) | [Werkversie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/guidelines) |
 
 ### BOMOS standaarden
@@ -28,11 +28,11 @@ Het beheer- en ontwikkelmodel voor open standaarden BOMOS is een handreiking voo
 
 | Repository                    | Gepubliceerde versie          | Werk versie                   |
 | ----------------------------- | ----------------------------- | ----------------------------- |
-| [BOMOS-Fundament](https://github.com/Logius-standaarden/BOMOS-Fundament)     | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament)   | [Werkversie](https://logius-standaarden.github.io/BOMOS-Fundament/)   |
-| [BOMOS-Verdieping](https://github.com/Logius-standaarden/BOMOS-Verdieping)   | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping)  | [Werkversie](https://logius-standaarden.github.io/BOMOS-Verdieping/)  |
-| [BOMOS-Stelsels](https://github.com/Logius-standaarden/BOMOS-Stelsels), aanvullende module over het beheer van afsprakenstelsels      | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/bomos/stelsels)    | [Werkversie](https://logius-standaarden.github.io/BOMOS-Stelsels/)    |
-| [BOMOS-LinkedData](https://github.com/Logius-standaarden/BOMOS-LinkedData), aanvullende module specifiek over beheer van linked data. | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/bomos/linkeddata)  | [Werkversie](https://logius-standaarden.github.io/BOMOS-LinkedData/)  |
-| [BOMOS-Beheermodel](https://github.com/Logius-standaarden/BOMOS-Beheermodel), hoe BOMOS zelf beheerd wordt. | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/bomos/beheermodel) | [Werkversie](https://logius-standaarden.github.io/BOMOS-Beheermodel/) |
+| [BOMOS-Fundament](https://github.com/Logius-standaarden/BOMOS-Fundament)     | [Vastgestelde versie, 7 juni 2022](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament)   | [Werkversie, 29 juni 2023](https://logius-standaarden.github.io/BOMOS-Fundament/)   |
+| [BOMOS-Verdieping](https://github.com/Logius-standaarden/BOMOS-Verdieping)   | [Vastgestelde versie, 7 juni 2022](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping)  | [Werkversie, 2 augustus 2023](https://logius-standaarden.github.io/BOMOS-Verdieping/)  |
+| [BOMOS-Stelsels](https://github.com/Logius-standaarden/BOMOS-Stelsels), aanvullende module over het beheer van afsprakenstelsels      | [Vastgestelde versie, 7 juni 2022](https://gitdocumentatie.logius.nl/publicatie/bomos/stelsels)    | [Werkversie, 19 juni 2023](https://logius-standaarden.github.io/BOMOS-Stelsels/)    |
+| [BOMOS-LinkedData](https://github.com/Logius-standaarden/BOMOS-LinkedData), aanvullende module specifiek over beheer van linked data. | [Vastgestelde versie, 7 juni 2022](https://gitdocumentatie.logius.nl/publicatie/bomos/linkeddata)  | [Werkversie, 19 juni 2023](https://logius-standaarden.github.io/BOMOS-LinkedData/)  |
+| [BOMOS-Beheermodel](https://github.com/Logius-standaarden/BOMOS-Beheermodel), hoe BOMOS zelf beheerd wordt. | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/bomos/beheermodel) | [Werkversie, 6 april 2023](https://logius-standaarden.github.io/BOMOS-Beheermodel/) |
 
 <!--
 
