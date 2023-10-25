@@ -10,7 +10,27 @@
 
 ### Digikoppeling standaarden
 
--
+[Overzicht repositories](https://github.com/search?q=topic%3Adigikoppeling+org%3ALogius-standaarden&type=Repositories)
+| Repository | Gepubliceerde versie | Werkversie |
+| ---------- | -------------------- | ---------- |
+| [Digikoppeling-Architectuur](https://github.com/Logius-standaarden/Digikoppeling-Architectuur) | [2.1.0 (12 augustus 2022)](https://gitdocumentatie.logius.nl/publicatie/dk/architectuur/) | [5 juli 2023](https://logius-standaarden.github.io/Digikoppeling-Architectuur/) |
+| [Digikoppeling-Koppelvlakstandaard-REST-API](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-REST-API) | [1.1.1 (14 november 2022)](https://gitdocumentatie.logius.nl/publicatie/dk/restapi/) | [6 april 2023](https://logius-standaarden.github.io/Digikoppeling-Koppelvlakstandaard-REST-API/) |
+| [OIN-Stelsel](https://github.com/Logius-standaarden/OIN-Stelsel) | [2.0.3 (31 maart 2020)](https://gitdocumentatie.logius.nl/publicatie/dk/oin/) | [19 oktober 2023](https://logius-standaarden.github.io/OIN-Stelsel/) |
+| [Digikoppeling-Koppelvlakstandaard-ebMS2](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-ebMS2) | [3.3.1 (11 april 2022)](https://gitdocumentatie.logius.nl/publicatie/dk/ebms/) | [4 mei 2023](https://logius-standaarden.github.io/Digikoppeling-Koppelvlakstandaard-ebMS2/) |
+| [Digikoppeling-Koppelvlakstandaard-WUS](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-WUS) | [3.8.1 (11 april 2022)](https://gitdocumentatie.logius.nl/publicatie/dk/wus/) | [4 mei 2023](https://logius-standaarden.github.io/Digikoppeling-Koppelvlakstandaard-WUS/) |
+| [Digikoppeling-Koppelvlakstandaard-GB](https://github.com/Logius-standaarden/Digikoppeling-Koppelvlakstandaard-GB) | [3.8.1 (11 april 2022)](https://gitdocumentatie.logius.nl/publicatie/dk/gb/) | [3 mei 2023](https://logius-standaarden.github.io/Digikoppeling-Koppelvlakstandaard-GB/) |
+| [Digikoppeling-Identificatie-en-Authenticatie](https://github.com/Logius-standaarden/Digikoppeling-Identificatie-en-Authenticatie) | [1.4.3 (15 juni 2023)](https://gitdocumentatie.logius.nl/publicatie/dk/idauth/) | [19 september 2023](https://logius-standaarden.github.io/Digikoppeling-Identificatie-en-Authenticatie/) |
+| [Digikoppeling-Beveiligingsstandaarden-en-voorschriften](https://github.com/Logius-standaarden/Digikoppeling-Beveiligingsstandaarden-en-voorschriften) | [1.4 (1 februari 2021)](https://gitdocumentatie.logius.nl/publicatie/dk/beveilig/) | [3 mei 2023](https://logius-standaarden.github.io/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/) |
+| [Digikoppeling-Overzicht-Actuele-Documentatie-en-Compliance](https://github.com/Logius-standaarden/Digikoppeling-Overzicht-Actuele-Documentatie-en-Compliance) | [1.10 (14 november 2022)](https://gitdocumentatie.logius.nl/publicatie/dk/actueel/) | [17 oktober 2023](https://logius-standaarden.github.io/Digikoppeling-Overzicht-Actuele-Documentatie-en-Compliance/) |
+| [Digikoppeling-Best-Practices-WUS](https://github.com/Logius-standaarden/Digikoppeling-Best-Practices-WUS) | [1.10.2 (1 juni 2023)](https://gitdocumentatie.logius.nl/publicatie/dk/bpwus/) | [7 juli 2023](https://logius-standaarden.github.io/Digikoppeling-Best-Practices-WUS/) |
+| [Digikoppeling-Best-Practices-ebMS2](https://github.com/Logius-standaarden/Digikoppeling-Best-Practices-ebMS2) | [3.2.2 (31 mei 2023)](https://gitdocumentatie.logius.nl/publicatie/dk/bpebms/) | [7 juli 2023](https://logius-standaarden.github.io/Digikoppeling-Best-Practices-ebMS2/) |
+| [Digikoppeling-Best-Practices-GB](https://github.com/Logius-standaarden/Digikoppeling-Best-Practices-GB) | [3.2.0 (16 mei 2023)](https://gitdocumentatie.logius.nl/publicatie/dk/bpgb/) | [7 juli 2023](https://logius-standaarden.github.io/Digikoppeling-Best-Practices-GB/) |
+| [Digikoppeling-Gebruik-en-achtergrond-certificaten](https://github.com/Logius-standaarden/Digikoppeling-Gebruik-en-achtergrond-certificaten) | [1.6.3 (1 juni 2023)](https://gitdocumentatie.logius.nl/publicatie/dk/gbachtcert/) | [7 juli 2023](https://logius-standaarden.github.io/Digikoppeling-Gebruik-en-achtergrond-certificaten/) |
+| [Digikoppeling-Wat-is-Digikoppeling](https://github.com/Logius-standaarden/Digikoppeling-Wat-is-Digikoppeling) | [1.1.2 (11 april 2022)](https://gitdocumentatie.logius.nl/publicatie/dk/watisdk/) | [6 april 2023](https://logius-standaarden.github.io/Digikoppeling-Wat-is-Digikoppeling/) |
+| [Digikoppeling-Beheermodel](https://github.com/Logius-standaarden/Digikoppeling-Beheermodel) | [1.8 (23 september 2023)](https://gitdocumentatie.logius.nl/publicatie/dk/beheer/) | [20 oktober 2023](https://logius-standaarden.github.io/Digikoppeling-Beheermodel/) |
+| [Digikoppeling-Algemeen](https://github.com/Logius-standaarden/Digikoppeling-Algemeen) | [1.0 (24 maart 2022)](https://gitdocumentatie.logius.nl/publicatie/dk/roadmap/) | [27 september 2023](https://logius-standaarden.github.io/Digikoppeling-Algemeen/) |
+| [Digikoppeling-Handreiking-Adressering-en-Routering](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering) | [1.1.0 (13 februari 2023)](https://gitdocumentatie.logius.nl/publicatie/dk/bpadres/) | [4 mei 2023](https://logius-standaarden.github.io/Digikoppeling-Handreiking-Adressering-en-Routering/) |
+
 
 ### Standaarden voor basisregstraties
 
