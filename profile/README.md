@@ -2,6 +2,8 @@
 
 ### API Standaarden
 
+[:file_folder:Overzicht repositories](https://github.com/search?q=topic%3Aapi+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
+
 | Formele standaard                                            | Gepubliceerde versie                                         | Werk versie                                                  | Repository                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 🏛️[NLGov API Design Rules (ADR)](https://forumstandaardisatie.nl/open-standaarden/rest-api-design-rules) | 🍿 [ADR v1 (definitief)](https://gitdocumentatie.logius.nl/publicatie/api/adr/) | ✍️ [ADR v2.0.0-rc.1 (versie ter vaststelling)](https://logius-standaarden.github.io/API-Design-Rules/) | 🤓 [API-Design-Rules](https://github.com/Logius-standaarden/API-Design-Rules) |
@@ -10,7 +12,8 @@
 
 ### Digikoppeling standaarden
 
-[Overzicht repositories](https://github.com/search?q=topic%3Adigikoppeling+org%3ALogius-standaarden&type=Repositories)
+[:file_folder:Overzicht repositories](https://github.com/search?q=topic%3Adigikoppeling+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
+
 | Repository | Gepubliceerde versie | Werkversie |
 | ---------- | -------------------- | ---------- |
 | [Digikoppeling Architectuur](https://github.com/Logius-standaarden/Digikoppeling-Architectuur) | [2.0.2 (12 augustus 2022)](https://gitdocumentatie.logius.nl/publicatie/dk/architectuur/) | [25 oktober 2023](https://logius-standaarden.github.io/Digikoppeling-Architectuur/) |
@@ -45,6 +48,8 @@ Logius beheert een aantal standaarden die specifiek in de uitwisseling van infor
 ### BOMOS standaarden
 
 Het beheer- en ontwikkelmodel voor open standaarden BOMOS is een handreiking voor beheerders. Logius publiceert en beheert BOMOS en organiseert regelamtig klankbordbijeenkomsten waar beheerders praktijkervaring delen en ideeen voor verbetering van BOMOS uitwerken.
+
+[:file_folder:Overzicht repositories](https://github.com/search?q=topic%3Abomos+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
 | Repository                    | Gepubliceerde versie          | Werk versie                   |
 | ----------------------------- | ----------------------------- | ----------------------------- |
