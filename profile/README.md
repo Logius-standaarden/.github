@@ -47,7 +47,7 @@ Logius beheert een aantal standaarden die specifiek in de uitwisseling van infor
 
 ### BOMOS standaarden
 
-Het beheer- en ontwikkelmodel voor open standaarden BOMOS is een handreiking voor beheerders. Logius publiceert en beheert BOMOS en organiseert regelamtig klankbordbijeenkomsten waar beheerders praktijkervaring delen en ideeen voor verbetering van BOMOS uitwerken.
+Het beheer- en ontwikkelmodel voor open standaarden BOMOS is een handreiking voor beheerders. Logius publiceert en beheert BOMOS en organiseert regelmatig klankbordbijeenkomsten waar beheerders praktijkervaring delen en ideeën voor verbetering van BOMOS uitwerken.
 
 [:file_folder:Overzicht repositories](https://github.com/search?q=topic%3Abomos+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
