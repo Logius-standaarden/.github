@@ -12,7 +12,7 @@
 | 🏛️ API-standaarden beheermodel | [API Beheermodel v1.0.0 (definitief)](https://logius-standaarden.github.io/API-Standaarden-Beheermodel/) | [API Beheermodel (werkversie)](https://logius-standaarden.github.io/API-Standaarden-Beheermodel/) | [API-Standaarden-Beheermodel](https://github.com/Logius-standaarden/API-Standaarden-Beheermodel) |
 | 🏛️ Module transport security | [API module transport-security v1.0.2 (definitief)](https://gitdocumentatie.logius.nl/publicatie/api/mod-ts/) | [API module transport-security (werkversie)](https://logius-standaarden.github.io/API-mod-transport-security/) | [API-mod-transport-security ](https://github.com/Logius-standaarden/API-mod-transport-security) |
 | 🏛️ Module Geospatial | [API module geospatial v1.0.2 (definitief)](https://gitdocumentatie.logius.nl/publicatie/api/mod-geo/1.0.2/) | [API module geospatial (werkversie)](https://logius-standaarden.github.io/API-mod-geospatial/) | [ API-mod-geospatial](https://github.com/Logius-standaarden/API-mod-geospatial) |
-| 🏛️ Logboek Dataverwerkingen | - | [Logboek dataverwerkingen (werkversie)](https://minbzk.github.io/logboek-dataverwerkingen/) | [logboek-dataverwerkingen](https://github.com/MinBZK/logboek-dataverwerkingen/) |
+| 🏛️ Logboek Dataverwerkingen | - | [Logboek dataverwerkingen v0.7.0 (werkversie)](https://logius-standaarden.github.io/logboek-dataverwerkingen/) | [logboek-dataverwerkingen](https://github.com/Logius-standaarden/logboek-dataverwerkingen) |
 
 ### Digikoppeling standaarden
 
