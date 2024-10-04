@@ -4,6 +4,9 @@
 
 [:file_folder:Overzicht repositories](https://github.com/search?q=topic%3Aapi+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
+ <details>
+  <summary>Publicaties</summary>
+   
 | Formele standaard                                            | Gepubliceerde versie                                         | Werk versie                                                  | Repository                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 🏛️ [NLGov API Design Rules (ADR)](https://forumstandaardisatie.nl/open-standaarden/rest-api-design-rules) | [ADR v2.0.0 (definitief)](https://gitdocumentatie.logius.nl/publicatie/api/adr/) | [ADR (werkversie)](https://logius-standaarden.github.io/API-Design-Rules/) | [API-Design-Rules](https://github.com/Logius-standaarden/API-Design-Rules) |
@@ -13,11 +16,16 @@
 | 🏛️ Module transport security | [API module transport-security v1.0.2 (definitief)](https://gitdocumentatie.logius.nl/publicatie/api/mod-ts/) | [API module transport-security (werkversie)](https://logius-standaarden.github.io/API-mod-transport-security/) | [API-mod-transport-security ](https://github.com/Logius-standaarden/API-mod-transport-security) |
 | 🏛️ Module Geospatial | [API module geospatial v1.0.2 (definitief)](https://gitdocumentatie.logius.nl/publicatie/api/mod-geo/1.0.2/) | [API module geospatial (werkversie)](https://logius-standaarden.github.io/API-mod-geospatial/) | [ API-mod-geospatial](https://github.com/Logius-standaarden/API-mod-geospatial) |
 | 🏛️ Logboek Dataverwerkingen | - | [Logboek dataverwerkingen v0.7.0 (werkversie)](https://logius-standaarden.github.io/logboek-dataverwerkingen/) | [logboek-dataverwerkingen](https://github.com/Logius-standaarden/logboek-dataverwerkingen) |
+   
+</details>
 
 ### Digikoppeling standaarden
 
 [:file_folder:Overzicht repositories](https://github.com/search?q=topic%3Adigikoppeling+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
+ <details>
+  <summary>Publicaties</summary>
+   
 | Repository | Gepubliceerde versie | Werkversie |
 | ---------- | -------------------- | ---------- |
 | [Digikoppeling Architectuur](https://github.com/Logius-standaarden/Digikoppeling-Architectuur) | [2.0.2 (12 augustus 2022)](https://gitdocumentatie.logius.nl/publicatie/dk/architectuur/) | [16 januari 2024](https://logius-standaarden.github.io/Digikoppeling-Architectuur/) |
@@ -38,11 +46,14 @@
 | [Digikoppeling Roadmap](https://github.com/Logius-standaarden/Digikoppeling-Algemeen) | [2024-2025 (11 juni 2024)](https://gitdocumentatie.logius.nl/publicatie/dk/roadmap/) | [19 augustus 2024](https://logius-standaarden.github.io/Digikoppeling-Algemeen/) |
 | [Digikoppeling Handreiking Adressering en Routering](https://github.com/Logius-standaarden/Digikoppeling-Handreiking-Adressering-en-Routering) | [1.1.0 (13 februari 2023)](https://gitdocumentatie.logius.nl/publicatie/dk/bpadres/) | [25 oktober 2023](https://logius-standaarden.github.io/Digikoppeling-Handreiking-Adressering-en-Routering/) |
 
-
+</details>
 
 ### Standaarden voor basisregstraties
 
 Logius beheert een aantal standaarden die specifiek in de uitwisseling van informatie voor de basisregistraties gebruikt worden: DMKS voor het doen van terugmeldingen en CloudEvents voor notificaties.
+
+ <details>
+  <summary>Publicaties</summary>
 
 | Repository                    | Gepubliceerde versie          | Werk versie                   |
 | ----------------------------- | ----------------------------- | ----------------------------- |
@@ -50,11 +61,16 @@ Logius beheert een aantal standaarden die specifiek in de uitwisseling van infor
 | [NL-GOV-profile-for-CloudEvents](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents) | [Vastgestelde versie, 5 juli 2022](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/CloudEvents-NL/) | [Werkversie, 5 juli 2022](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/CloudEvents-NL/) |
 | [CloudEvents-NL-Guidelines](https://github.com/Logius-standaarden/CloudEvents-NL-Guidelines), handreiking voor toepassing | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/guidelines/) | [Werkversie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/guidelines) |
 
+</details>
+
 ### BOMOS standaarden
 
 Het beheer- en ontwikkelmodel voor open standaarden BOMOS is een handreiking voor beheerders. Logius publiceert en beheert BOMOS en organiseert regelmatig klankbordbijeenkomsten waar beheerders praktijkervaring delen en ideeën voor verbetering van BOMOS uitwerken.
 
 [:file_folder:Overzicht repositories](https://github.com/search?q=topic%3Abomos+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
+
+ <details>
+  <summary>Publicaties</summary>
 
 | Repository                    | Gepubliceerde versie          | Werk versie                   |
 | ----------------------------- | ----------------------------- | ----------------------------- |
@@ -63,6 +79,8 @@ Het beheer- en ontwikkelmodel voor open standaarden BOMOS is een handreiking voo
 | [BOMOS-Stelsels](https://github.com/Logius-standaarden/BOMOS-Stelsels), aanvullende module over het beheer van afsprakenstelsels      | [Vastgestelde versie, 7 juni 2022](https://gitdocumentatie.logius.nl/publicatie/bomos/stelsels)    | [Werkversie](https://logius-standaarden.github.io/BOMOS-Stelsels/)    |
 | [BOMOS-LinkedData](https://github.com/Logius-standaarden/BOMOS-LinkedData), aanvullende module specifiek over beheer van linked data. | [Vastgestelde versie, 7 juni 2022](https://gitdocumentatie.logius.nl/publicatie/bomos/linkeddata)  | [Werkversie](https://logius-standaarden.github.io/BOMOS-LinkedData/)  |
 | [BOMOS-Beheermodel](https://github.com/Logius-standaarden/BOMOS-Beheermodel), hoe BOMOS zelf beheerd wordt. | [Vastgestelde versie, 23 september 2023](https://gitdocumentatie.logius.nl/publicatie/bomos/beheer) | [Werkversie](https://logius-standaarden.github.io/BOMOS-Beheermodel/) |
+
+</details>
 
 <!--
 
