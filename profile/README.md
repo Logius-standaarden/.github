@@ -15,7 +15,14 @@
 | 🏛️ API-standaarden beheermodel | [API Beheermodel v1.0.0 (definitief)](https://logius-standaarden.github.io/API-Standaarden-Beheermodel/) | [API Beheermodel (werkversie)](https://logius-standaarden.github.io/API-Standaarden-Beheermodel/) | [API-Standaarden-Beheermodel](https://github.com/Logius-standaarden/API-Standaarden-Beheermodel) |
 | 🏛️ Module transport security | [API module transport-security v1.0.2 (definitief)](https://gitdocumentatie.logius.nl/publicatie/api/mod-ts/) | [API module transport-security (werkversie)](https://logius-standaarden.github.io/API-mod-transport-security/) | [API-mod-transport-security ](https://github.com/Logius-standaarden/API-mod-transport-security) |
 | 🏛️ Module Geospatial | [API module geospatial v1.0.2 (definitief)](https://gitdocumentatie.logius.nl/publicatie/api/mod-geo/1.0.2/) | [API module geospatial (werkversie)](https://logius-standaarden.github.io/API-mod-geospatial/) | [ API-mod-geospatial](https://github.com/Logius-standaarden/API-mod-geospatial) |
-| 🏛️ Logboek Dataverwerkingen | - | [Logboek dataverwerkingen v0.7.0 (werkversie)](https://logius-standaarden.github.io/logboek-dataverwerkingen/) | [logboek-dataverwerkingen](https://github.com/Logius-standaarden/logboek-dataverwerkingen) |
+
+De Logboek Dataverwerkingen (LDV) standaard bestaat uit de volgende drie documenten:
+
+| Beschrijving van het document           | Gepubliceerde versie                  | Werk versie                             | Repository                                                   |
+| --------------------------------------- | ------------------------------------- | --------------------------------------- | ------------------------------------------------------------ |
+| 1. De LDV Normatieve Standaard | - | [Logboek dataverwerkingen (werkversie)](https://logius-standaarden.github.io/logboek-dataverwerkingen/) | [logboek-dataverwerkingen](https://github.com/Logius-standaarden/logboek-dataverwerkingen) |
+| 2. De Algemene Inleiding | - | [De Algemene Inleiding (werkversie)](https://logius-standaarden.github.io/publicatie/api/Logboek_Algemeen/)|[logboek-dataverwerkingen_Inleiding](https://github.com/Logius-standaarden/logboek-dataverwerkingen_Inleiding)|
+| 3. het Juridische Beleidskader | - |[Juridisch Beleidskader (werkversie)](https://logius-standaarden.github.io/publicatie/api/Logboek_Juridisch/)|[logboek-dataverwerkingen_Juridisch-beleidskader](https://github.com/Logius-standaarden/logboek-dataverwerkingen_Juridisch-beleidskader/)|
    
 </details>
 
