@@ -21,10 +21,10 @@
 
 ### Logboek Dataverwerkingen (LDV)
 
+[:file_folder:Overzicht Logboek repositories](https://github.com/search?q=topic%3Alogboek+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
+
 <details>
   <summary>LDV Publicaties</summary>
-
-[:file_folder:Overzicht Logboek repositories](https://github.com/search?q=topic%3Alogboek+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
 De Logboek Dataverwerkingen (LDV) standaard bestaat uit de volgende drie documenten:
 
