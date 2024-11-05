@@ -2,10 +2,10 @@
 
 ### API Standaarden
 
-[:file_folder:Overzicht repositories](https://github.com/search?q=topic%3Aapi+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
+[:file_folder:Overzicht API repositories](https://github.com/search?q=topic%3Aapi+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
  <details>
-  <summary>Publicaties</summary>
+  <summary>API Publicaties</summary>
    
 | Formele standaard                                            | Gepubliceerde versie                                         | Werk versie                                                  | Repository                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -15,6 +15,16 @@
 | 🏛️ API-standaarden beheermodel | [API Beheermodel v1.0.0 (definitief)](https://logius-standaarden.github.io/API-Standaarden-Beheermodel/) | [API Beheermodel (werkversie)](https://logius-standaarden.github.io/API-Standaarden-Beheermodel/) | [API-Standaarden-Beheermodel](https://github.com/Logius-standaarden/API-Standaarden-Beheermodel) |
 | 🏛️ Module transport security | [API module transport-security v1.0.2 (definitief)](https://gitdocumentatie.logius.nl/publicatie/api/mod-ts/) | [API module transport-security (werkversie)](https://logius-standaarden.github.io/API-mod-transport-security/) | [API-mod-transport-security ](https://github.com/Logius-standaarden/API-mod-transport-security) |
 | 🏛️ Module Geospatial | [API module geospatial v1.0.2 (definitief)](https://gitdocumentatie.logius.nl/publicatie/api/mod-geo/1.0.2/) | [API module geospatial (werkversie)](https://logius-standaarden.github.io/API-mod-geospatial/) | [ API-mod-geospatial](https://github.com/Logius-standaarden/API-mod-geospatial) |
+
+</details>
+
+
+### Logboek Dataverwerkingen (LDV)
+
+<details>
+  <summary>LDV Publicaties</summary>
+
+[:file_folder:Overzicht Logboek repositories](https://github.com/search?q=topic%3Alogboek+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
 De Logboek Dataverwerkingen (LDV) standaard bestaat uit de volgende drie documenten:
 
@@ -28,10 +38,10 @@ De Logboek Dataverwerkingen (LDV) standaard bestaat uit de volgende drie documen
 
 ### Digikoppeling standaarden
 
-[:file_folder:Overzicht repositories](https://github.com/search?q=topic%3Adigikoppeling+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
+[:file_folder:Overzicht Digikoppeling repositories](https://github.com/search?q=topic%3Adigikoppeling+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
  <details>
-  <summary>Publicaties</summary>
+  <summary>Digikoppeling Publicaties</summary>
    
 | Repository | Gepubliceerde versie | Werkversie |
 | ---------- | -------------------- | ---------- |
@@ -74,10 +84,10 @@ Logius beheert een aantal standaarden die specifiek in de uitwisseling van infor
 
 Het beheer- en ontwikkelmodel voor open standaarden BOMOS is een handreiking voor beheerders. Logius publiceert en beheert BOMOS en organiseert regelmatig klankbordbijeenkomsten waar beheerders praktijkervaring delen en ideeën voor verbetering van BOMOS uitwerken.
 
-[:file_folder:Overzicht repositories](https://github.com/search?q=topic%3Abomos+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
+[:file_folder:Overzicht BOMOS repositories](https://github.com/search?q=topic%3Abomos+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
  <details>
-  <summary>Publicaties</summary>
+  <summary>BOMOS Publicaties</summary>
 
 | Repository                    | Gepubliceerde versie          | Werk versie                   |
 | ----------------------------- | ----------------------------- | ----------------------------- |
