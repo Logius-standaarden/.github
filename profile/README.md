@@ -5,7 +5,7 @@
 [:file_folder:Overzicht API repositories](https://github.com/search?q=topic%3Aapi+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
  <details>
-  <summary>API Publicaties</summary>
+  <summary>Klik hier voor de tabel met de links naar alle API Publicaties</summary>
    
 | Formele standaard                                            | Gepubliceerde versie                                         | Werk versie                                                  | Repository                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -24,7 +24,7 @@
 [:file_folder:Overzicht Logboek repositories](https://github.com/search?q=topic%3Alogboek+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
 <details>
-  <summary>LDV Publicaties</summary>
+  <summary>Klik hier voor de tabel met de links naar alle LDV Publicaties</summary>
 
 De Logboek Dataverwerkingen (LDV) standaard bestaat uit de volgende drie documenten:
 
@@ -41,7 +41,7 @@ De Logboek Dataverwerkingen (LDV) standaard bestaat uit de volgende drie documen
 [:file_folder:Overzicht Digikoppeling repositories](https://github.com/search?q=topic%3Adigikoppeling+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
  <details>
-  <summary>Digikoppeling Publicaties</summary>
+  <summary>Klik hier voor de tabel met de links naar alle Digikoppeling Publicaties</summary>
    
 | Repository | Gepubliceerde versie | Werkversie |
 | ---------- | -------------------- | ---------- |
@@ -70,7 +70,7 @@ De Logboek Dataverwerkingen (LDV) standaard bestaat uit de volgende drie documen
 Logius beheert een aantal standaarden die specifiek in de uitwisseling van informatie voor de basisregistraties gebruikt worden: DMKS voor het doen van terugmeldingen en CloudEvents voor notificaties.
 
  <details>
-  <summary>Publicaties</summary>
+  <summary>Klik hier voor de tabel met de links naar alle Publicaties</summary>
 
 | Repository                    | Gepubliceerde versie          | Werk versie                   |
 | ----------------------------- | ----------------------------- | ----------------------------- |
@@ -87,7 +87,7 @@ Het beheer- en ontwikkelmodel voor open standaarden BOMOS is een handreiking voo
 [:file_folder:Overzicht BOMOS repositories](https://github.com/search?q=topic%3Abomos+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
  <details>
-  <summary>BOMOS Publicaties</summary>
+  <summary>Klik hier voor de tabel met de links naar alle BOMOS Publicaties</summary>
 
 | Repository                    | Gepubliceerde versie          | Werk versie                   |
 | ----------------------------- | ----------------------------- | ----------------------------- |
