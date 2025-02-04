@@ -75,7 +75,7 @@ Logius beheert een aantal standaarden die specifiek in de uitwisseling van infor
 | Repository                    | Gepubliceerde versie          | Werk versie                   |
 | ----------------------------- | ----------------------------- | ----------------------------- |
 | [Digimelding-Koppelvlakspecificatie](https://github.com/Logius-standaarden/Digimelding-Koppelvlakspecificatie/) | [Vastgestelde versie, 1 juni 2021](https://gitdocumentatie.logius.nl/publicatie/digimelding/koppelvlak/) | [Werkversie, 17 mei 2023](https://logius-standaarden.github.io/Digimelding-Koppelvlakspecificatie/) |
-| [NL-GOV-profile-for-CloudEvents](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents) | [Vastgestelde versie, 5 juli 2022](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/CloudEvents-NL/) | [Werkversie, 5 juli 2022](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/CloudEvents-NL/) |
+| [NL-GOV-profile-for-CloudEvents](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents) | [Vastgestelde versie, 5 juli 2022](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/cloudevents-nl/) | [Werkversie, 5 juli 2022](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/cloudevents-nl/) |
 | [CloudEvents-NL-Guidelines](https://github.com/Logius-standaarden/CloudEvents-NL-Guidelines), handreiking voor toepassing | [Vastgestelde versie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/guidelines/) | [Werkversie](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/guidelines) |
 
 </details>
