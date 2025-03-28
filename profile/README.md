@@ -2,6 +2,9 @@
 
 ### API Standaarden
 
+[![NL API Strategie Infographic](/media/API_infographic.svg)](https://geonovum.github.io/KP-APIs/API-strategie-algemeen/Inleiding/#infographic)
+
+
 [:file_folder:Overzicht API repositories](https://github.com/search?q=topic%3Aapi+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
  <details>
