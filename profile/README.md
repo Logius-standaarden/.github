@@ -2,14 +2,13 @@
 
 ### API Standaarden
 
-[![NL API Strategie Infographic](/media/API_infographic.svg)](https://geonovum.github.io/KP-APIs/API-strategie-algemeen/Inleiding/#infographic)
-
+[![NL API Strategie Infographic](/API infographic.drawio)](https://geonovum.github.io/KP-APIs/API-strategie-algemeen/Inleiding/#infographic)
 
 [:file_folder:Overzicht API repositories](https://github.com/search?q=topic%3Aapi+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
  <details>
   <summary>Klik hier voor de tabel met de links naar alle API Publicaties</summary>
-   
+
 | Formele standaard                                            | Gepubliceerde versie                                         | Werk versie                                                  | Repository                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 🏛️ [NLGov API Design Rules (ADR)](https://forumstandaardisatie.nl/open-standaarden/rest-api-design-rules) | [ADR v2.0.2 (definitief)](https://gitdocumentatie.logius.nl/publicatie/api/adr/2.0.2/) | [ADR (werkversie)](https://logius-standaarden.github.io/API-Design-Rules/) | [API-Design-Rules](https://github.com/Logius-standaarden/API-Design-Rules) |
@@ -20,7 +19,6 @@
 | 🏛️ Module Geospatial | [API module geospatial v1.0.2 (definitief)](https://gitdocumentatie.logius.nl/publicatie/api/mod-geo/1.0.2/) | [API module geospatial (werkversie)](https://logius-standaarden.github.io/API-mod-geospatial/) | [ API-mod-geospatial](https://github.com/Logius-standaarden/API-mod-geospatial) |
 
 </details>
-
 
 ### Logboek Dataverwerkingen (LDV)
 
@@ -37,7 +35,7 @@ De Logboek Dataverwerkingen (LDV) standaard bestaat uit de volgende drie documen
 | 2. De Algemene Inleiding | - | [De Algemene Inleiding (werkversie)](https://logius-standaarden.github.io/logboek-dataverwerkingen_Inleiding/)|[logboek-dataverwerkingen_Inleiding](https://github.com/Logius-standaarden/logboek-dataverwerkingen_Inleiding)|
 | 3. het Juridische Beleidskader | - |[Juridisch Beleidskader (werkversie)](https://logius-standaarden.github.io/logboek-dataverwerkingen_Juridisch-beleidskader/)|[logboek-dataverwerkingen_Juridisch-beleidskader](https://github.com/Logius-standaarden/logboek-dataverwerkingen_Juridisch-beleidskader/)|
 |Voorbeeld en demo applicatie| - | - |[logboek-dataverwerkingen-demo](https://github.com/Logius-standaarden/logboek-dataverwerkingen-demo)|
-   
+
 </details>
 
 ### Digikoppeling standaarden
@@ -46,7 +44,7 @@ De Logboek Dataverwerkingen (LDV) standaard bestaat uit de volgende drie documen
 
  <details>
   <summary>Klik hier voor de tabel met de links naar alle Digikoppeling Publicaties</summary>
-   
+
 | Repository | Gepubliceerde versie | Werkversie |
 | ---------- | -------------------- | ---------- |
 | [Digikoppeling Architectuur](https://github.com/Logius-standaarden/Digikoppeling-Architectuur) | [2.0.2 (12 augustus 2022)](https://gitdocumentatie.logius.nl/publicatie/dk/architectuur/) | [16 januari 2024](https://logius-standaarden.github.io/Digikoppeling-Architectuur/) |
