@@ -2,7 +2,7 @@
 
 ### API Standaarden
 
-[![NL API Strategie Infographic](API%20infographic-versie-120.svg)](https://github.com/Logius-standaarden/.github/blob/main/profile/API%20infographic-versie-120.svg)
+[![NL API Strategie Infographic](API%20infographic-versie-120.svg)](https://raw.githubusercontent.com/Logius-standaarden/.github/refs/heads/main/profile/API%20infographic-versie-120.svg)
 
 [:file_folder:Overzicht API repositories](https://github.com/search?q=topic%3Aapi+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
