@@ -1,13 +1,13 @@
 ## Logius beheert standaarden voor Nederlandse overheidsorganisaties
 
-### API Standaarden
-
-[![NL API Strategie Infographic](API%20infographic-versie-120.svg)](https://raw.githubusercontent.com/Logius-standaarden/.github/refs/heads/main/profile/API%20infographic-versie-120.svg)
+### API Standaarden :monkey:
 
 [:file_folder:Overzicht API repositories](https://github.com/search?q=topic%3Aapi+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
  <details>
   <summary>Klik hier voor de tabel met de links naar alle API Publicaties</summary>
+  
+  [![NL API Strategie Infographic](API%20infographic-versie-120.svg)](https://raw.githubusercontent.com/Logius-standaarden/.github/refs/heads/main/profile/API%20infographic-versie-120.svg)
 
 | Formele standaard                                            | Gepubliceerde versie                                         | Werk versie                                                  | Repository                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
