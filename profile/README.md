@@ -1,6 +1,6 @@
 ## Logius beheert standaarden voor Nederlandse overheidsorganisaties
 
-### API Standaarden :monkey:
+### API-standaarden :monkey:
 
 [:file_folder:Overzicht API repositories](https://github.com/search?q=topic%3Aapi+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
@@ -38,7 +38,7 @@ De Logboek Dataverwerkingen (LDV) standaard bestaat uit de volgende vier documen
 
 </details>
 
-### Digikoppeling standaarden
+### Digikoppelingstandaarden
 
 [:file_folder:Overzicht Digikoppeling repositories](https://github.com/search?q=topic%3Adigikoppeling+org%3ALogius-standaarden+fork%3Atrue&type=repositories)
 
@@ -82,7 +82,7 @@ Logius beheert een aantal standaarden die specifiek in de uitwisseling van infor
 
 </details>
 
-### BOMOS standaarden
+### BOMOS-standaarden
 
 Het beheer- en ontwikkelmodel voor open standaarden BOMOS is een handreiking voor beheerders. Logius publiceert en beheert BOMOS en organiseert regelmatig klankbordbijeenkomsten waar beheerders praktijkervaring delen en ideeën voor verbetering van BOMOS uitwerken.
 
